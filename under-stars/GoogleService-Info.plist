@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>421114974151-14mjfj6nlehrc246qag0u382r8pl8es7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.421114974151-14mjfj6nlehrc246qag0u382r8pl8es7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAidmcHaNnh8EafWBAcF1nQGTtBF9jYgbQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>421114974151</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>lami.under-stars</string>
+	<key>PROJECT_ID</key>
+	<string>under-stars</string>
+	<key>STORAGE_BUCKET</key>
+	<string>under-stars.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:421114974151:ios:47b37195032019dcf953e2</string>
+	<key>DATABASE_URL</key>
+	<string>https://under-stars.firebaseio.com</string>
+</dict>
+</plist>

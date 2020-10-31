@@ -1,0 +1,6 @@
+framework module Pods_under_stars {
+  umbrella header "Pods-under-stars-umbrella.h"
+
+  export *
+  module * { export * }
+}

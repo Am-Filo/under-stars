@@ -1,0 +1,6 @@
+framework module Pods_under_stars_under_starsUITests {
+  umbrella header "Pods-under-stars-under-starsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
